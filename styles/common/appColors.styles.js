@@ -1,4 +1,6 @@
 export const appColors = {
-    lightGray: 'lightGray',
-    red: 'red'
+    lightGray: 'gray',
+    red: 'red',
+    white: 'white',
+    black: 'black'
 }
